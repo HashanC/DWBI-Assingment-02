@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ipl_prject_2", "ipl_prject_2.dwproj", "{F75B94A0-7476-4910-9952-084B1333E160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75B94A0-7476-4910-9952-084B1333E160}.Development|Default.ActiveCfg = Development
+		{F75B94A0-7476-4910-9952-084B1333E160}.Development|Default.Build.0 = Development
+		{F75B94A0-7476-4910-9952-084B1333E160}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE674EF2-6197-4DDF-AB0B-FDD3AF5B672A}
+	EndGlobalSection
+EndGlobal
